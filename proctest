@@ -1,0 +1,4 @@
+create or replace procedure proctest is
+begin
+  dbms_output.put_line('Let''s do this!');
+end;  
